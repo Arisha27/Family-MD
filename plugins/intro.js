@@ -4,14 +4,14 @@ let krtu = `Kartu Intro`
 m.reply(`
 0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 Kartu Intro 」*
-│ *Nama     :TALHA KAYANI* 
-│ *Gender   :MALE* 
-│ *Umur      :15* 
-│ *Hobby    :CODE* 
-│ *Kelas      :10* 
-│ *Asal         :PAKISTAN* 
-│ *Agama    :ABHRAHAMATIC* 
- |  *Status     :GOOD* 
+│ *Nama     :* 
+│ *Gender   :* 
+│ *Umur      :* 
+│ *Hobby    :* 
+│ *Kelas      :* 
+│ *Asal         :* 
+│ *Agama    :* 
+ |  *Status     :* 
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
 `.trim()) // Tambah sendiri kalo mau
 }
